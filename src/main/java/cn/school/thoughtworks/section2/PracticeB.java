@@ -1,7 +1,7 @@
 package cn.school.thoughtworks.section2;
 
 import java.util.*;
-
+import cn.school.thoughtworks.section2.*;
 public class PracticeB {
     Map<String, Integer> countSameElements(List<String> collection1) {
         if (collection1.isEmpty())

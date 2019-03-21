@@ -1,12 +1,25 @@
 package cn.school.thoughtworks.section3;
 
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 public class PracticeB {
     Map<String,Integer> createUpdatedCollection(Map<String,Integer> collectionA, Map<String,List<String>> object) {
-        //实现练习要求，并改写该行代码。
-
-        return null;
+        if (collectionA.isEmpty() || object.isEmpty())
+            return null;
+        Map<String, Integer> Result = new HashMap<String, Integer>();
+        Result = collectionA;
+        //loops for find object's value isExist in CollectionA
+        for (String key : object.keySet()) {
+            for (String y : object.get(key)) {
+                if (Result.containsKey(y)) {
+                    int NewValue = Result.get(y);
+                    NewValue -= NewValue/3;
+                    Result.put(y, NewValue);
+                }
+            }
+        }
+        return Result;
     }
 }

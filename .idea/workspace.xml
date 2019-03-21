@@ -2,14 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27c863ed-ab79-4f04-99c1-567bd15b76a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section2/PracticeC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section2/PracticeC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section2/PracticeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section2/PracticeA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section2/PracticeB.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section2/PracticeB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section2/PracticeC.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section2/PracticeC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeB.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeC.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeD.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cn/school/thoughtworks/section3/PracticeD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeCTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeCTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeDTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeDTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeDTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/cn/school/thoughtworks/section3/PracticeDTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section1.PracticeATest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section1.PracticeATest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section1.PracticeBTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section1.PracticeBTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section1.PracticeCTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section1.PracticeCTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section2.PracticeATest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section2.PracticeATest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section2.PracticeBTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section2.PracticeBTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section2.PracticeCTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section2.PracticeCTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeATest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeATest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeBTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeBTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeCTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeCTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeDTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/cn.school.thoughtworks.section3.PracticeDTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.school.thoughtworks.section1.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.school.thoughtworks.section1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.school.thoughtworks.section2.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.school.thoughtworks.section2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.school.thoughtworks.section3.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/cn.school.thoughtworks.section3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section1.PracticeATest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section1.PracticeATest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section1.PracticeBTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section1.PracticeBTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section1.PracticeCTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section1.PracticeCTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section2.PracticeATest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section2.PracticeATest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section2.PracticeBTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section2.PracticeBTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section2.PracticeCTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section2.PracticeCTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeATest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeATest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeBTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeBTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeCTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeCTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeDTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-cn.school.thoughtworks.section3.PracticeDTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeC.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/cn/school/thoughtworks/section3/PracticeD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeDTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeDTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeDTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeDTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeCTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeCTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/cn/school/thoughtworks/section3/PracticeCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeDTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeCTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeCTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -27,36 +73,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeA.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeCTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="e#266#283#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section2/PracticeATest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeBTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#301#318#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -64,67 +94,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
+            <state relative-caret-position="280">
               <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeATest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section2/PracticeCTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
-                <element signature="e#294#311#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section1/PracticeC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeDTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section1/PracticeB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section1/PracticeCTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section1/PracticeBTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeD.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-42">
-              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-              <folding>
-                <element signature="e#481#498#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,7 +143,11 @@
         <option value="$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeDTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeC.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeB.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeD.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeCTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeC.java" />
       </list>
     </option>
   </component>
@@ -272,7 +277,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553074505047" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553131202803" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,32 +291,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PracticeDTest">
-    <configuration name="PracticeATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PracticeCTest">
+    <configuration name="PracticeATest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cn.thoughtworks.pre-java-pos.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.school.thoughtworks.section2.*" />
+          <option name="PATTERN" value="cn.school.thoughtworks.section3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.school.thoughtworks.section2" />
-      <option name="MAIN_CLASS_NAME" value="cn.school.thoughtworks.section2.PracticeATest" />
+      <option name="PACKAGE_NAME" value="cn.school.thoughtworks.section3" />
+      <option name="MAIN_CLASS_NAME" value="cn.school.thoughtworks.section3.PracticeATest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PracticeBTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cn.thoughtworks.pre-java-pos.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.school.thoughtworks.section2.*" />
+          <option name="PATTERN" value="cn.school.thoughtworks.section3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.school.thoughtworks.section2" />
-      <option name="MAIN_CLASS_NAME" value="cn.school.thoughtworks.section2.PracticeBTest" />
+      <option name="PACKAGE_NAME" value="cn.school.thoughtworks.section3" />
+      <option name="MAIN_CLASS_NAME" value="cn.school.thoughtworks.section3.PracticeBTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -336,12 +341,12 @@
       <module name="cn.thoughtworks.pre-java-pos.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.school.thoughtworks.section1.*" />
+          <option name="PATTERN" value="cn.school.thoughtworks.section3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.school.thoughtworks.section1" />
-      <option name="MAIN_CLASS_NAME" value="cn.school.thoughtworks.section1.PracticeCTest" />
+      <option name="PACKAGE_NAME" value="cn.school.thoughtworks.section3" />
+      <option name="MAIN_CLASS_NAME" value="cn.school.thoughtworks.section3.PracticeCTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -364,11 +369,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PracticeCTest" />
+        <item itemvalue="JUnit.PracticeBTest (1)" />
+        <item itemvalue="JUnit.PracticeATest (1)" />
         <item itemvalue="JUnit.PracticeDTest" />
         <item itemvalue="JUnit.PracticeCTest (1)" />
-        <item itemvalue="JUnit.PracticeBTest" />
-        <item itemvalue="JUnit.PracticeATest" />
-        <item itemvalue="JUnit.PracticeCTest" />
       </list>
     </recent_temporary>
   </component>
@@ -386,69 +391,69 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 27m 50s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeATest_(1) - 2019.03.20 at 20h 08m 54s.xml">
+      <configuration name="PracticeATest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 29m 34s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeATest_(1) - 2019.03.20 at 20h 09m 22s.xml">
+      <configuration name="PracticeATest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 30m 31s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeATest_(1) - 2019.03.20 at 20h 09m 54s.xml">
+      <configuration name="PracticeATest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 30m 49s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeATest_(1) - 2019.03.20 at 20h 10m 08s.xml">
+      <configuration name="PracticeATest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 31m 09s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeATest_(1) - 2019.03.20 at 20h 10m 45s.xml">
+      <configuration name="PracticeATest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 31m 35s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeATest_(1) - 2019.03.20 at 20h 13m 31s.xml">
+      <configuration name="PracticeATest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 31m 47s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeBTest_(1) - 2019.03.20 at 20h 13m 39s.xml">
+      <configuration name="PracticeBTest (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 32m 42s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeCTest - 2019.03.20 at 20h 15m 01s.xml">
+      <configuration name="PracticeCTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 34m 12s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeCTest - 2019.03.20 at 20h 16m 48s.xml">
+      <configuration name="PracticeCTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PracticeDTest - 2019.03.20 at 17h 34m 27s.xml">
-      <configuration name="PracticeDTest" configurationId="JUnit" />
+    <history-entry file="PracticeCTest - 2019.03.20 at 20h 18m 06s.xml">
+      <configuration name="PracticeCTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32970026" />
-      <window_info anchor="bottom" id="Messages" weight="0.32891566" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Designer" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="2" weight="0.32970026" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -456,38 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section2/PracticeCTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-          <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -512,16 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#294#311#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -543,17 +506,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeDTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section1/PracticeB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section2/PracticeCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -566,11 +547,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeD.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#481#498#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="e#365#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#358#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section2/PracticeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/school/thoughtworks/section3/PracticeC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeBTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/school/thoughtworks/section3/PracticeCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
         </state>
       </provider>
     </entry>

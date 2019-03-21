@@ -48,20 +48,6 @@ public class PracticeD {
                 }
             }
         }
-
-
-
-        //Exists.removeAll(noExists);
-
-
-
-
-
-
-
-
         return Result;
-
-
     }
 }

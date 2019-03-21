@@ -20,7 +20,11 @@ public class PracticeCTest {
 
     @Test
     public void create_update_collection_should_return_a_new_map_with_element_as_key_and_count_as_value() throws Exception {
-        //统计出collection1中相同的元素的个数，形成collection3，collection3是一个map其中元素key是collection1中的元素value是该元素在collection1中出现次数，然后选出collection3跟collection2中value属性对应的list中的元素相同的元素,把他们的count，满3减1，输出减过之后的新集合
+        //统计出collection1中相同的元素的个数，
+        // 形成collection3，
+        // collection3是一个map其中元素key是collection1中的元素value是该元素在collection1中出现次数，
+        // 然后选出collection3跟collection2中value属性对应的list中的元素相同的元素,把他们的count，满3减1，
+        // 输出减过之后的新集合
         List<String> collection1 = Arrays.asList(
                 "a", "a", "a",
                 "e", "e", "e", "e", "e", "e", "e",
